@@ -8,7 +8,6 @@ const Featured = () => (
         Discover the most iconic scenes and moments from the Joker movie. Dive
         deep into the character's transformation and the film's impact.
       </p>
-      {/* Add more featured content as needed */}
     </div>
   </section>
 );

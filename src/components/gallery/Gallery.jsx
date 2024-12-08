@@ -50,7 +50,6 @@ const Gallery = () => (
           alt="Gallery Image 3"
           className="w-full h-auto"
         />
-        {/* Add more images as needed */}
       </div>
     </div>
   </section>

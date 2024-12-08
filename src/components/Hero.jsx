@@ -4,7 +4,6 @@ import { motion } from "framer-motion";
 const Hero = () => {
   return (
     <div className="relative h-screen">
-      {/* Background Image */}
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
